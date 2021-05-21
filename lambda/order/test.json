@@ -1,0 +1,33 @@
+{
+  "order_amount": 220,
+  "delivery_address": "Mirpur",
+  "postcode": "1212",
+  "city": "Dhaka",
+  "waiter_tips": 12,
+  "order_type": "DELIVERY",
+  "delivery_time": "2020-12-02T08:20:00.162Z",
+  "date_time": "2020-12-02T08:20:00.162Z",
+  "customer_id": 2,
+  "coffee_house_id": null,
+  "restaurant_id": 2,
+  "table": {
+    "table_id": 30,
+    "table_status": true
+  },
+  "coffee_list": [
+    {
+      "coffee_id": 12,
+      "coffee_note": "Food Note",
+      "coffee_quantity": 4,
+      "item_total": 120,
+
+      "coffee_addons": [
+        {
+          "coffee_addons_id": 2,
+          "addon_quantity": 3,
+          "item_total": 0
+        }
+      ]
+    }
+  ]
+}
