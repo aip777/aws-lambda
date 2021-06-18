@@ -1,0 +1,33 @@
+{
+  "order_amount":"order_amount" ,
+  "order_status":"order_status" ,
+  "payment_status":"payment_status" ,
+  "delivery_address": "delivery_address",
+  "postcode": "postcode",
+  "city": "city",
+  "waiter_tips":"waiter_tips" ,
+  "order_type": "order_type",
+  "delivery_time": "delivery_time",
+  "date_time":"date_time" ,
+  "customer_id": "customer_id",
+  "coffee_house_id": "coffee_house_id",
+  "restaurant_id": "restaurant_id",
+  "table": {
+    "table_id": 30,
+    "table_status": true
+  },
+  "coffee_list": [
+    {
+      "coffee_id": "id",
+      "coffee_quantity": "coffee_quantity",
+      "coffee_note": "coffee_note",
+      "ingredients": "",
+      "cofffee_addons": [
+        {
+          "coffeeorder_id": "coffeeorder_id",
+          "coffeeaddons_id": "coffeeaddons_id"
+        }
+        ]
+    }
+  ]
+}

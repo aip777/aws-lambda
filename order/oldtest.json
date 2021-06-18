@@ -1,0 +1,50 @@
+{
+  "Datetime": "2020-12-02T08:20:00.162Z",
+  "Delivarytime": "2020-12-02T08:20:00.162Z",
+  "customer_id": 10,
+  "delivery_address": "Mirpur, Dhaka",
+  "payment_id": "feasd",
+  "restaurant_id": 2,
+  "status": "",
+  "total_amount": 290,
+  "waitertip": 17,
+  "FromStatus": "DELIVERY",
+  "food_list": [
+    {
+      "CountItem": "1",
+      "FoodNote": "",
+      "FromStatus": "DeliveryStatus",
+      "TotalPrice": 220,
+      "food_active": true,
+      "food_components": "Wel getoast, Niet getoast, Wit and more",
+      "food_details": "DSDF",
+      "food_discounts": 10,
+      "food_id": 28,
+      "food_name": "Burger",
+      "food_picture": "https://mapplate-public.s3.eu-central-1.amazonaws.com/media/food-picture/bur4_UwjyHDU.jpg",
+      "food_price": 200,
+      "food_review": null,
+      "food_title": "Small Burger",
+      "food_uom": "sdfsdfsdf",
+      "foodaddons": [
+        {
+          "id": 7,
+          "addon_name": "tomato suach",
+          "price": 10,
+          "ingredients": ""
+        },
+        {
+          "id": 10,
+          "addon_name": "tomato suach",
+          "price": 30,
+          "ingredients": ""
+        }
+      ],
+      "id": 22,
+      "quantity": 10,
+      "restaurant_id": 2,
+      "type_of_food": "hot soos",
+      "variant_active": true
+    }
+  ]
+}
